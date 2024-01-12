@@ -1,0 +1,11 @@
+{
+  "name": "Haxe11s_Clientside_Mostly_QoL_Testing_Only_Modpack",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/a1russell/lethal-company-mod--clientside-mostly-qol-testing-only",
+  "description": "",
+  "dependencies": [
+    "haxe11-Haxe11s_Clientside_Mostly_QoL_Modpack-0.1.0",
+    "TheLore-TerminalShortcuts-1.0.1",
+    "quackandcheese-ToggleMute-1.3.0"
+  ]
+}
